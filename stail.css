@@ -1,0 +1,18 @@
+body{
+        width: 1920px;
+    height: 9975px;
+    top: -4988px;
+    left: -960px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: center;
+}
+
+.menu{
+    width: Fixed (1,595.79px)px;
+    height: Hug (66px)px;
+    gap: 130px;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 0.9);
+    justify-content: center;
+}
